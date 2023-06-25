@@ -37,3 +37,5 @@ API Endpoints
 -  Add pagination to GET `/api/books` endpoint
 -  Add Relationships between models (e.g. Author, Publisher, etc.)
 
+## Contributing
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
